@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# Progressive Web App Training
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This repo tracks my progress on building a progressive web app. 
 
-## Recommended IDE Setup
+## Tasks
+- [ ] Make it installable
+- [ ] Focus on one feature
+- [ ] Make it available offline
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Milestones
+- 
